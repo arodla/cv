@@ -105,6 +105,25 @@ import {
       "PowerBI",
       "Python",
     ],
-    projects: [],
+    projects: [
+      {
+        title: "Consultly",
+        techStack: [
+          "Side Project",
+          "TypeScript",
+          "Next.js",
+          "Vite",
+          "GraphQL",
+          "WebRTC",
+        ],
+        description: "A platform to build and grow your online business",
+        logo: ConsultlyLogo,
+        link: {
+          label: "consultly.com",
+          href: "https://consultly.com/",
+        },
+      },
+
+    ],
   } as const;
   
