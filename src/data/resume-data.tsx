@@ -105,6 +105,6 @@ import {
       "PowerBI",
       "Python",
     ],
-
+    projects: [],
   } as const;
   
